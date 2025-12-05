@@ -16,6 +16,10 @@ GoRouter routerConfig = GoRouter(
   initialLocation: Routes.kDashboard,
   navigatorKey: UiHelper.navigatorKey,
   routes: [
+    // ----------------------
+    // Global routes go here
+    // ----------------------
+
     /**
      * -----------------
      * Nested Nav Graphs
