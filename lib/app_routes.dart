@@ -4,5 +4,7 @@
 */
 
 abstract final class Routes {
+  // DASHBOARD
   static const String kDashboard = "/dashboard";
+  static dashboardRoutes(String route) => "$kDashboard/$route";
 }
