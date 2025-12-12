@@ -4,8 +4,7 @@ import 'package:base_setup/core/constants/constants.dart';
 import 'package:base_setup/core/theme/style.dart';
 import 'package:base_setup/core/utils/ui_helper.dart';
 
-import 'bottom_app_bar_item.dart';
-
+import 'bottom_app_bar_item.dart' show BottomBarItem;
 /*
  * @Author Muhammad Muddassar
  * @Date 16 June, 2025

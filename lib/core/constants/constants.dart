@@ -4,7 +4,7 @@
 */
 
 const String kFontFamily = "inter";
-const String kAppName = "Furniture Store";
+const String kAppName = "Base Setup";
 const double kBottomAppBarHeight = 76.0;
 const double kAppbarHeight = 91.0;
 const double kAppbarHeightNormal = 66.0;

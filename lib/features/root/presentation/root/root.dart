@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
 import 'widgets/bottom_app_bar.dart';
-
 /*
  * Author @ Muhammad Muddassar
  * Date @ 24 Nov, 2025

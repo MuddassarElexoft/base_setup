@@ -1,5 +1,5 @@
 import 'package:base_setup/app_routes.dart';
-import 'package:base_setup/features/dashboard/dashboard_screen/dashboard_screen.dart';
+import 'package:base_setup/features/dashboard/presentation/dashboard_screen/dashboard_screen.dart';
 import 'package:go_router/go_router.dart';
 
 /*
